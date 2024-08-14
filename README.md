@@ -1,8 +1,10 @@
 ## Overview ##
 This repository is dedicated to exploring a variety of unsupervised learning methods. It includes comprehensive analyses and applications of dimensionality reduction and clustering techniques.<br>
+
 ## Contents ##
-**_<u>Overview_of_Unsupervised_Learning_Techniques.ipynb</u>_**<br>
-<u><b>File<b><u>: Overview_of_Unsupervised_Learning_Techniques.ipynb <br>
+
+**_<u>File</u>_**: Overview_of_Unsupervised_Learning_Techniques.ipynb <br>
+
 Description: This notebook offers an exhaustive summary of various dimensionality reduction and clustering techniques. It highlights the strengths and weaknesses of each method, supplemented by real data analyses and visual plots to illustrate their effectiveness.
 Cluster and Dimension Reduction Combined
 File: Cluster_and_Dim_Reduction_Simultaneously.ipynb
